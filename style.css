@@ -123,6 +123,7 @@ h1 {
     display: none;
   }
   .container {
+    min-width: 100%;
     padding: 2rem;
   }
   .home_container {
