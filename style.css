@@ -73,7 +73,7 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  row-gap: 20px;
+  row-gap: 50px;
   align-items: left;
   max-width: 500px;
   /* padding-top: 50px;
@@ -107,7 +107,7 @@ a {
 
 h1 {
   /* text-size-adjust: 40px; */
-  font-size: 40px;
+  font-size: 45px;
 }
 
 @media screen and (max-width: 768px) {
@@ -115,7 +115,7 @@ h1 {
     display: none;
   }
   .conatiner {
-    padding: 2rem;
+    margin: 30px;
   }
   .home_container {
     display: flex;
